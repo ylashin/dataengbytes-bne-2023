@@ -1,6 +1,8 @@
 # dataengbytes-bne-2023
 Source code for Spark session at DataEngBytes Brisbane 2023
 
+Video recording is avilable at : https://www.youtube.com/watch?v=ih6z3EKp_j4
+
 The session covers topics like:
 - Spark architecture and how that relates to query execution
 - Connectivity to data sources like JDBC and splitability nature of file sources
